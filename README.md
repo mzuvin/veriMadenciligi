@@ -1,0 +1,2 @@
+# veriMadenciligi
+Veri Madenciliği Algoritmalar.
